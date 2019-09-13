@@ -1,0 +1,13 @@
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\bin\Debug\netcoreapp2.1\BinarySearchTree.deps.json
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\bin\Debug\netcoreapp2.1\BinarySearchTree.runtimeconfig.json
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\bin\Debug\netcoreapp2.1\BinarySearchTree.runtimeconfig.dev.json
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\bin\Debug\netcoreapp2.1\BinarySearchTree.dll
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\bin\Debug\netcoreapp2.1\BinarySearchTree.pdb
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\obj\Debug\netcoreapp2.1\BinarySearchTree.fsprojAssemblyReference.cache
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\obj\Debug\netcoreapp2.1\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\obj\Debug\netcoreapp2.1\BinarySearchTree.AssemblyInfo.fs
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\obj\Debug\netcoreapp2.1\BinarySearchTree.dll
+C:\Users\Cole\Exercism\fsharp\binary-search-tree\obj\Debug\netcoreapp2.1\BinarySearchTree.pdb

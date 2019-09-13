@@ -1,0 +1,12 @@
+C:\Users\Cole\Exercism\fsharp\reverse-string\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Cole\Exercism\fsharp\reverse-string\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Cole\Exercism\fsharp\reverse-string\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Cole\Exercism\fsharp\reverse-string\bin\Debug\netcoreapp2.1\ReverseString.deps.json
+C:\Users\Cole\Exercism\fsharp\reverse-string\bin\Debug\netcoreapp2.1\ReverseString.runtimeconfig.json
+C:\Users\Cole\Exercism\fsharp\reverse-string\bin\Debug\netcoreapp2.1\ReverseString.runtimeconfig.dev.json
+C:\Users\Cole\Exercism\fsharp\reverse-string\bin\Debug\netcoreapp2.1\ReverseString.dll
+C:\Users\Cole\Exercism\fsharp\reverse-string\bin\Debug\netcoreapp2.1\ReverseString.pdb
+C:\Users\Cole\Exercism\fsharp\reverse-string\obj\Debug\netcoreapp2.1\ReverseString.AssemblyInfoInputs.cache
+C:\Users\Cole\Exercism\fsharp\reverse-string\obj\Debug\netcoreapp2.1\ReverseString.AssemblyInfo.fs
+C:\Users\Cole\Exercism\fsharp\reverse-string\obj\Debug\netcoreapp2.1\ReverseString.dll
+C:\Users\Cole\Exercism\fsharp\reverse-string\obj\Debug\netcoreapp2.1\ReverseString.pdb

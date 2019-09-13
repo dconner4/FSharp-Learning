@@ -1,0 +1,13 @@
+C:\Users\Cole\Exercism\fsharp\grains\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Cole\Exercism\fsharp\grains\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Cole\Exercism\fsharp\grains\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Cole\Exercism\fsharp\grains\bin\Debug\netcoreapp2.1\Grains.deps.json
+C:\Users\Cole\Exercism\fsharp\grains\bin\Debug\netcoreapp2.1\Grains.runtimeconfig.json
+C:\Users\Cole\Exercism\fsharp\grains\bin\Debug\netcoreapp2.1\Grains.runtimeconfig.dev.json
+C:\Users\Cole\Exercism\fsharp\grains\bin\Debug\netcoreapp2.1\Grains.dll
+C:\Users\Cole\Exercism\fsharp\grains\bin\Debug\netcoreapp2.1\Grains.pdb
+C:\Users\Cole\Exercism\fsharp\grains\obj\Debug\netcoreapp2.1\Grains.fsprojAssemblyReference.cache
+C:\Users\Cole\Exercism\fsharp\grains\obj\Debug\netcoreapp2.1\Grains.AssemblyInfoInputs.cache
+C:\Users\Cole\Exercism\fsharp\grains\obj\Debug\netcoreapp2.1\Grains.AssemblyInfo.fs
+C:\Users\Cole\Exercism\fsharp\grains\obj\Debug\netcoreapp2.1\Grains.dll
+C:\Users\Cole\Exercism\fsharp\grains\obj\Debug\netcoreapp2.1\Grains.pdb
